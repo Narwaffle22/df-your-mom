@@ -5,3 +5,6 @@ b
 |    | |
 
 | ,  | _
+
+
+run funnyscript.sh as root
